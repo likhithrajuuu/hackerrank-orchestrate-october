@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ### Step 4 : Run this application
 Finally run this application using the following command which ever is suitable to you
 ```bash
-uvicorn main:app
+uvicorn main:app --reload
 ```
 
 or if you need more control you can go with this:
