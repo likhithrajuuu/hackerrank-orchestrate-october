@@ -1,0 +1,5 @@
+# Excluding the local python virtual environment
+.venv/
+
+# Excluding the environment variables
+.env
